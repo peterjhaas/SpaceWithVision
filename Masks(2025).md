@@ -1,8 +1,12 @@
-The legendary showman David “Bowie” Jones rarely interviewed or discussed his process but once offered a rare insight when he told a fan “I am always afraid.” In order to overcome the fear, Mr. Jones claimed to wear an invisible mask which protected his private self while performing.
+# Masks
 
+***On the subject of fast-fashion and the occupation of the inner-space of our souls.***
 
+by Peter J. Haas and Léa Fae
 
+<p>The legendary showman David “Bowie” Jones rarely interviewed or discussed his process but once offered a rare insight when he told a fan “I am always afraid.” In order to overcome the fear, Mr. Jones claimed to wear an invisible mask which protected his private self while performing.</p>
 
+![](https://substackcdn.com/image/fetch/$s_!DXvu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1647586b-1fe0-4014-b343-f83623b1f636_4160x6240.jpeg)
 
 Mr. Jones was discussing the use of emotional masks, but you don’t have to look further than his glam rock days to realize that the out-of-this world wardrobe his characters dawned was certainly part of the barrier between the life of Mr. Jones and Bowie.
 
@@ -74,36 +78,16 @@ Bowie’s final album ★ (BLACKSTAR) was released on his 69th birthday, just tw
 
 David Jones never did, and neither should we.
 
-
-
-
-
-
-
-
+## Notes
 
 This piece originally appeared in the BosswitchLeFaye series entitled Fuck Fashion, an exploration of slow fashion and the sociology of fashion.
 
-Photography by Léa Fae.
-Makeup by Ivy Tinker.
-Special thanks to Lightbulb Rentals.
+- Photography by Léa Fae.
+- Makeup by Ivy Tinker.
+- Special thanks to Lightbulb Rentals.
 
-OF POSSIBLE INTEREST
-
-
-
-
-
-CAPITALIST REALISM,  Mark Fisher.
-
-
-
-WORK WON’T LOVE YOU BACK, Sarah Jaffe.
-
-
-
-FANCY BELIEVING IN THE GOBLIN KING, Paul Magrs.
-
-
-
-★ (BLACKSTAR), David Bowie — Vinyl | CD
+## OF POSSIBLE INTEREST
+- CAPITALIST REALISM,  Mark Fisher.
+- WORK WON’T LOVE YOU BACK, Sarah Jaffe.
+- FANCY BELIEVING IN THE GOBLIN KING, Paul Magrs.
+- ★ (BLACKSTAR), David Bowie — Vinyl | CD
