@@ -1,3 +1,5 @@
+
+
 # Space with Vision
 
 Making motion pictures, like all art, is an active process — transforming a subject from an inert state of merely being observed, into an experience that is immersive and experiential. A space with vision is a place that serves as a chrysalis for this process: it is a zone of creativity where meaningful creative works are produced and shared.
