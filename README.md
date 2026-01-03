@@ -1,4 +1,4 @@
-![Header](/assets/SwV%20Heading%20SNS.jpg)
+![Header](/assets/SwV_Header_v300wb.jpg)
 
 # Space with Vision
 
