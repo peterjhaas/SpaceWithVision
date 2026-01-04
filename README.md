@@ -11,7 +11,7 @@ Currently, the primary platform for Space with Vision is [Substack](https://spac
 ## Links
 - [Peter's Notes](Notes.md)
 - Soundtracks: The Last Unicorn
-- [Masks](Masks(2025.md)): *On the subject of fast-fashion and the occupation of the inner-space of our souls.*
+- [Masks](/Masks_2025.md): *On the subject of fast-fashion and the occupation of the inner-space of our souls.*
 - To Quote Werner Herzog
 - To the Moon and Back Again
 - Halloween Special 2025
