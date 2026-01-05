@@ -11,8 +11,12 @@ Currently, the primary platform for Space with Vision is [Substack](https://spac
 ## Support
 If you like the work we're doing here, please consider [sponsoring this project](https://github.com/sponsors/peterjhaas)!
 
-## Links
-- [Peter's Notes](Notes.md)
+## Catalog
+
+### 2026
+- You Are All Wrong: *Defending Herzog's Ecstatic Truth at New York's Metrograph Movie Theater.* [Substack](https://spacewithvision.substack.com/p/you-are-all-wrong?r=63z57c) | [GitHub](./2026/YouAreAllWrong.md)
+
+### 2025
 - Soundtracks: The Last Unicorn
 - [Masks](/Masks_2025.md): *On the subject of fast-fashion and the occupation of the inner-space of our souls.*
 - To Quote Werner Herzog
