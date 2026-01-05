@@ -14,10 +14,13 @@ If you like the work we're doing here, please consider [sponsoring this project]
 ## Catalog
 
 ### 2026
-- You Are All Wrong: *Defending Herzog's Ecstatic Truth at New York's Metrograph Movie Theater.* [Substack](https://spacewithvision.substack.com/p/you-are-all-wrong?r=63z57c) | [GitHub](./2026/YouAreAllWrong.md)
+- **You Are All Wrong**
+  - *Defending Herzog's Ecstatic Truth at New York's Metrograph Movie Theater.*
+  - by Peter J. Haas<br/>
+  - Read: [Substack](https://spacewithvision.substack.com/p/you-are-all-wrong?r=63z57c) | [GitHub](./2026/YouAreAllWrong.md)
 
 ### 2025
-- Soundtracks: The Last Unicorn
+- **Soundtracks, The Last Unicorn**: *Examining an underrated gem of an original sound track as magical as the film itself.* <br/>by Kat Hamilton<br/> Read: [Substack] | [GitHub]
 - [Masks](/2025/Masks_2025.md): *On the subject of fast-fashion and the occupation of the inner-space of our souls.*
 - To Quote Werner Herzog
 - To the Moon and Back Again
