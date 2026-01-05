@@ -18,7 +18,7 @@ If you like the work we're doing here, please consider [sponsoring this project]
 
 ### 2025
 - Soundtracks: The Last Unicorn
-- [Masks](/Masks_2025.md): *On the subject of fast-fashion and the occupation of the inner-space of our souls.*
+- [Masks](/2025/Masks_2025.md): *On the subject of fast-fashion and the occupation of the inner-space of our souls.*
 - To Quote Werner Herzog
 - To the Moon and Back Again
 - Halloween Special 2025
