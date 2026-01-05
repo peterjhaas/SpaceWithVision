@@ -8,6 +8,9 @@ This publication documents various expeditions into the dynamic creative process
 ## Where to Read
 Currently, the primary platform for Space with Vision is [Substack](https://spacewithvision.substack.com), yet knowing how the winds of time change every platform, we're currently looking into other ways of preserving our work for readers.  Materials we post on Github and Archive.org are a result of our current experiment in finding new and interesting ways to provide access to our work without getting locked into a single platform.
 
+## Support
+If you like the work we're doing here, please consider [sponsoring this project](https://github.com/sponsors/peterjhaas)!
+
 ## Links
 - [Peter's Notes](Notes.md)
 - Soundtracks: The Last Unicorn
