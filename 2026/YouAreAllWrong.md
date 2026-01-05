@@ -9,7 +9,7 @@ The warm glow of an overpriced glass of Riesling had hardly taken hold as I inco
 
 My nerves were already on edge. The contract on my current job was ending soon, and nothing seemed on the horizon. Fueled with anxiety about the future, I had uncharacteristically interloped my way into a Members Only Event with hopes of engaging in some networking.
 
-[Read On Substack] | [Support This Project]
+[Read On Substack](https://spacewithvision.substack.com/p/you-are-all-wrong?r=63z57c) | [Support This Project](https://github.com/sponsors/peterjhaas)
 
 For those unfamiliar: the Metrograph is a small, independent, privately run repertory movie theater located on the Lower East Side of Manhattan. It is popular among New York’s young and hip crowd, particularly those with a professional interest in culture, the type who self-describe as cinephiles.
 
