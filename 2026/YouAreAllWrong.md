@@ -55,7 +55,7 @@ The presence of the documentary format does not imply the presence of fact. Pict
 
 Non-fiction works are best viewed as a spectrum: with journalism on one end (that is, sorting through a number of subjective truths to construct what is considered a reasonably accurate piece of information), “based-upon” sitting somewhere in the middle (these are stories told with the sort of energy comparable to what you might hear at a bar with friends, narratives that are rooted in fact but often contain wild embellishments), and finally at the opposite end of the spectrum: Op-Eds, Advertisements and Propaganda (media that is designed to control and influence behavior).
 
-<!-- TK — Image of spectrum goes here. -->
+![The documentary spectrum, visualized](/2026/assets/swv_YouAreAllWrong_spectrum.jpg)
 
 The lines blur when telling non-fiction stories. Many people over-index for the journalism side of the spectrum and take great umbrage to the idea that the detailed truths of a non-fiction documentary might not be strictly factual.
 
@@ -70,8 +70,8 @@ The ecstatic truth  has a few unfortunate cousins: the Op-Ed, advertisement and 
 While propaganda seeks to limit questions and establish control; the ecstatic truth seeks to inspire emotional connections, while inviting critique and scrutiny by the viewer.
 
 > “[A] decisive difference is that either I make public acknowledgement of my ecstatic inventions, or it’s clear from the film itself. The explanation is usually in the film itself, and is impossible to ignore.” — **Werner Herzog**.
->
-> Herzog has always been upfront regarding his style and approach. His pictures often read as immersive thought experiments, borrowing bits from reality and fiction, they each have their own established tone, providing the viewer with clues as to the treatment of the materials within. Tiny fictions that reside within a greater non-fiction — and, as stated above, as inventive and good natured as the stories you hear over beers with friends at the local pub.
+
+Herzog has always been upfront regarding his style and approach. His pictures often read as immersive thought experiments, borrowing bits from reality and fiction, they each have their own established tone, providing the viewer with clues as to the treatment of the materials within. Tiny fictions that reside within a greater non-fiction — and, as stated above, as inventive and good natured as the stories you hear over beers with friends at the local pub.
 
 Concerns regarding the application of the Ecstatic or Emotional truth ultimately boil down to issues of media literacy and transparency. Producers and consumers of media alike should focus on taking an active role in their relationship to media, keeping an open minded about how the documentary format is applied, and asking oneself where on the spectrum the work lies.
 
