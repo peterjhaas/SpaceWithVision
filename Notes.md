@@ -1,3 +1,14 @@
+# 2026-01-08
+Watching LESSONS OF DARKNESS (1992) gave me chills. As I discussed in my article [You Are All Wrong](https://open.substack.com/pub/spacewithvision/p/you-are-all-wrong?utm_campaign=post-expanded-share&utm_medium=post%20viewer), it is a near perfect meditation on the crimes of war. LESSONS evoked memories of being a child during the Gulf War; it was my first time experiencing a war completely dominate the American Culture.
+
+It’s difficult to communicate to a (younger) modern audience just how impossible it felt to escape. Breaking news stories were on every channel.  If someone had cable (a rare thing at the time), there were entire networks like CNN seemingly dedicated to continuous Gulf War updates.
+
+Community sport games involved the ritualistic hanging of “yellow-ribbons for the troops,” and the collective singing of Patriotic songs. Parades were awash with desert style camouflage and military vehicles. Who can forget the Operation Desert Storm cookbook. 
+
+In a move right out of the “directed by Paul Verhoven” playbook, and most memorable for a child of my age, was the onslaught of children’s toys: highlights of which include military action figures, comics, plastic life-sized “Desert Storm action rifles,” and even TOPPS trading cards.
+To a pre-9/11 world not yet accustomed to the instantaneity of the internet it was a new, undiscovered country of anxiety.
+
+
 # 2026-01-03
 
 Mobile phones are a great resource for filmmakers, particularly in the documentary and micro-budget fiction fields.
