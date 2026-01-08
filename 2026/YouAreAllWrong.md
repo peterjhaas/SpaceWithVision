@@ -56,7 +56,7 @@ The presence of the documentary format does not imply the presence of fact. Pict
 
 Non-fiction works are best viewed as a spectrum: with journalism on one end (that is, sorting through a number of subjective truths to construct what is considered a reasonably accurate piece of information), “based-upon” sitting somewhere in the middle (these are stories told with the sort of energy comparable to what you might hear at a bar with friends, narratives that are rooted in fact but often contain wild embellishments), and finally at the opposite end of the spectrum: Op-Eds, Advertisements and Propaganda (media that is designed to control and influence behavior).
 
-<img src="/2026/assets/swv_YouAreAllWrong_spectrum.jpg">
+<img src="/2026/assets/swv_YouAreAllWrong_spectrum.jpg" alt="Journalism --- Based Upon --- Propaganda / Op-Ed / Adverts">
 
 The lines blur when telling non-fiction stories. Many people over-index for the journalism side of the spectrum and take great umbrage to the idea that the detailed truths of a non-fiction documentary might not be strictly factual.
 
