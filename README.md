@@ -14,9 +14,13 @@ If you like the work we're doing here, please consider [sponsoring this project]
 ## Catalog
 
 ### 2026
+- **Recommendations for a Freeze-Wave**
+  - *It’s been cold here in New York City. Very cold. Mostly staying inside. Watching some stuff.*
+  - by Peter J. Haas
+  - Read: [Substack](https://open.substack.com/pub/spacewithvision/p/recommendations-for-a-freeze-wave?r=63z57c&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) - [GitHub](https://github.com/peterjhaas/SpaceWithVision/blob/8a9390d2e4bb357e23e2d194be94b0517568b797/2026/2026-01-31%20Recommendations%20for%20a%20Freeze%20Wave.md)
 - **You Are All Wrong**
   - *Defending Herzog's Ecstatic Truth at New York's Metrograph Movie Theater.*
-  - by Peter J. Haas<br/>
+  - by Peter J. Haas
   - Read: [Substack](https://spacewithvision.substack.com/p/you-are-all-wrong?r=63z57c) - [GitHub](./2026/YouAreAllWrong.md)
 
 <details>
