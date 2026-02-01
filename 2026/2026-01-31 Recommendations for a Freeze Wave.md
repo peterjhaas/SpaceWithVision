@@ -1,3 +1,5 @@
+# Recommendations for a Freeze-Wave
+
 *It’s been cold here in New York City. Very cold. Mostly staying inside. Watching some stuff.*
 
 by Peter J. Haas
